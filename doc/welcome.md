@@ -6,8 +6,6 @@
 Please give us your feedback on https://aka.ms/ftafeedbackwvd
 
 Agenda:
-
-Azure Quick Start Center - Setup Guide
 1. Organize resources
 1. Manage access
 1. Manage costs and billing
