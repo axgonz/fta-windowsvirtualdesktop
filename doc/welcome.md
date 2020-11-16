@@ -3,7 +3,9 @@
 
 **Questions?** Feel free to type them in the chat window at any time. Note that questions you post will be public. 
 
-Please give us your feedback on https://aka.ms/ftafeedbackwvd
+**Feeback** We would love to hear your thoughts, please provide us your feedback [//aka.ms/ftalive](https://aka.ms/ftalive).
+
+![Feedback screenshot](/png/feedback.png)
 
 Agenda:
 1. Organize resources
